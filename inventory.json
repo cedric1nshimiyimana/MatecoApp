@@ -1,0 +1,23 @@
+[
+  { "id": 1, "name": "Square Tube", "w": 150, "h": 150, "t": 4.0, "price": 217000, "loc": "Right Lower", "category": "Tubes", "image_url": "" },
+  { "id": 2, "name": "Square Tube", "w": 30, "h": 30, "t": 3.0, "price": 30000, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 3, "name": "Square Tube", "w": 16, "h": 16, "t": 1.5, "price": 8500, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 4, "name": "Square Tube", "w": 30, "h": 30, "t": 2.0, "price": 22000, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 5, "name": "Rectangular Tube", "w": 75, "h": 50, "t": 3.0, "price": 65000, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 6, "name": "Square Tube", "w": 125, "h": 125, "t": 4.0, "price": 180000, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 7, "name": "Rectangular Tube", "w": 60, "h": 40, "t": 1.5, "price": 25000, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 8, "name": "Rectangular Tube", "w": 30, "h": 20, "t": 1.25, "price": 12000, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 9, "name": "Rectangular Tube", "w": 60, "h": 40, "t": 1.0, "price": 22000, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 10, "name": "Square Tube", "w": 30, "h": 30, "t": 1.25, "price": 15000, "loc": "Upper", "category": "Tubes", "image_url": "" },
+  { "id": 11, "name": "Angle Iron", "w": 30, "h": 30, "t": 3.0, "price": 18000, "loc": "Left Lower", "category": "Angle Iron", "image_url": "" },
+  { "id": 12, "name": "Angle Iron", "w": 40, "h": 40, "t": 6.0, "price": 37000, "loc": "Left Lower", "category": "Angle Iron", "image_url": "" },
+  { "id": 13, "name": "Angle Iron", "w": 50, "h": 50, "t": 4.0, "price": 35000, "loc": "Left Lower", "category": "Angle Iron", "image_url": "" },
+  { "id": 14, "name": "Rectangular Tube", "w": 100, "h": 50, "t": 2.5, "price": 60000, "loc": "Left Lower", "category": "Tubes", "image_url": "" },
+  { "id": 15, "name": "Rectangular Tube", "w": 150, "h": 100, "t": 4.0, "price": 177000, "loc": "Right Upper", "category": "Tubes", "image_url": "" },
+  { "id": 16, "name": "Square Tube", "w": 60, "h": 60, "t": 1.5, "price": 37000, "loc": "Right Upper", "category": "Tubes", "image_url": "" },
+  { "id": 17, "name": "Heavy Square Tube", "w": 150, "h": 150, "t": 6.0, "price": 30000, "loc": "Right Lower", "category": "Tubes", "image_url": "" },
+  { "id": 18, "name": "Heavy Rectangular Tube", "w": 200, "h": 100, "t": 6.0, "price": 350000, "loc": "Right Lower", "category": "Tubes", "image_url": "" },
+  { "id": 19, "name": "Rectangular Tube", "w": 80, "h": 40, "t": 1.5, "price": 45000, "loc": "Middle Rack", "category": "Tubes", "image_url": "80x40X1.5mm.jpg" },
+  { "id": 20, "name": "Rectangular Tube", "w": 80, "h": 40, "t": 3.0, "price": 72000, "loc": "Middle Rack", "category": "Tubes", "image_url": "80X40X3mm.jpg" },
+  { "id": 21, "name": "Square Tube", "w": 75, "h": 75, "t": 3.0, "price": 85000, "loc": "Upper Rack", "category": "Tubes", "image_url": "75X75X3mm.jpg" }
+]
